@@ -1,6 +1,6 @@
 function calculateTotal() {
   // Select all price cells
-  const priceElements = document.querySelectorAll(".prices");
+  const priceElements = document.querySelectorAll(".price");
 
   // Calculate the total price
   let totalPrice = 0;
